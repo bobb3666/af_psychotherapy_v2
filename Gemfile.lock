@@ -72,7 +72,7 @@ DEPENDENCIES
   bundler
   jekyll
   rack-jekyll
-  rake (~> 10.0)
+  rake
 
 BUNDLED WITH
-   1.16.6
+   1.17.1

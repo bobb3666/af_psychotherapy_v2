@@ -3,3 +3,4 @@ gemspec
 gem 'bundler'
 gem 'jekyll'
 gem 'rack-jekyll'
+gem 'rake'
