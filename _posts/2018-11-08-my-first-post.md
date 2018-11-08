@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Post
-date: 2018-11-08 18:47
+date: 2018-11-08
 author: Anna Fasolo
 ---
 
